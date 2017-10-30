@@ -19,7 +19,8 @@ public class MainActivity extends AppCompatActivity {
         // notic >>>> the color of file name mean that there is change in file not add to github
         int x=2+2;
 
-        // make new  branch called it branch01
-
+        // add this line and below to branch01 to show compare between this branch and master branch
+        String z="test";
     }
+
 }
